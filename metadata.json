@@ -1,0 +1,5 @@
+{
+  "name": "공차계산기_최종(배포용)",
+  "description": "A professional tool for mechanical engineers to calculate fit tolerances based on ISO 286 standards, supporting hole and shaft grade selections with transition, clearance, and interference fit analysis.",
+  "requestFramePermissions": []
+}

@@ -1,0 +1,48 @@
+
+{
+  "holes": {
+    "H6": [
+      { "min_dia": 0, "max_dia": 3, "upper": 0.006, "lower": 0 },
+      { "min_dia": 3, "max_dia": 6, "upper": 0.008, "lower": 0 },
+      { "min_dia": 6, "max_dia": 10, "upper": 0.009, "lower": 0 },
+      { "min_dia": 10, "max_dia": 18, "upper": 0.011, "lower": 0 },
+      { "min_dia": 18, "max_dia": 30, "upper": 0.013, "lower": 0 },
+      { "min_dia": 30, "max_dia": 50, "upper": 0.016, "lower": 0 }
+    ],
+    "H7": [
+      { "min_dia": 0, "max_dia": 3, "upper": 0.010, "lower": 0 },
+      { "min_dia": 3, "max_dia": 6, "upper": 0.012, "lower": 0 },
+      { "min_dia": 6, "max_dia": 10, "upper": 0.015, "lower": 0 },
+      { "min_dia": 10, "max_dia": 18, "upper": 0.018, "lower": 0 },
+      { "min_dia": 18, "max_dia": 30, "upper": 0.021, "lower": 0 },
+      { "min_dia": 30, "max_dia": 50, "upper": 0.025, "lower": 0 }
+    ],
+    "JS7": [
+      { "min_dia": 18, "max_dia": 30, "upper": 0.010, "lower": -0.010 }
+    ]
+  },
+  "shafts": {
+    "h6": [
+      { "min_dia": 18, "max_dia": 30, "upper": 0, "lower": -0.013 }
+    ],
+    "g6": [
+      { "min_dia": 0, "max_dia": 3, "upper": -0.002, "lower": -0.008 },
+      { "min_dia": 3, "max_dia": 6, "upper": -0.004, "lower": -0.012 },
+      { "min_dia": 6, "max_dia": 10, "upper": -0.005, "lower": -0.014 },
+      { "min_dia": 10, "max_dia": 18, "upper": -0.006, "lower": -0.017 },
+      { "min_dia": 18, "max_dia": 30, "upper": -0.007, "lower": -0.020 },
+      { "min_dia": 30, "max_dia": 50, "upper": -0.009, "lower": -0.025 }
+    ],
+    "p6": [
+      { "min_dia": 0, "max_dia": 3, "upper": 0.012, "lower": 0.006 },
+      { "min_dia": 3, "max_dia": 6, "upper": 0.020, "lower": 0.012 },
+      { "min_dia": 6, "max_dia": 10, "upper": 0.024, "lower": 0.015 },
+      { "min_dia": 10, "max_dia": 18, "upper": 0.029, "lower": 0.018 },
+      { "min_dia": 18, "max_dia": 30, "upper": 0.035, "lower": 0.022 },
+      { "min_dia": 30, "max_dia": 50, "upper": 0.042, "lower": 0.026 }
+    ],
+    "k6": [
+      { "min_dia": 18, "max_dia": 30, "upper": 0.015, "lower": 0.002 }
+    ]
+  }
+}
